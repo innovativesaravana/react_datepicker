@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+.monthname {
+  margin: 0;
+  padding: 0;
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+#calender{
+  background: #29E526;
+  height: 500px;
+  width: 300px;
+  margin-left: 43%; 
+
+}
+
+#header p{
+  width: 60%;
+}
+
+#header i{
+  width: 10%;
+  font-size: 15px;
+}
+
+#header i,#header p{
+  float: left;
+  height: 100%;
+  border: 1px solid black;
+}
