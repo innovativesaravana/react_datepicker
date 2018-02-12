@@ -17,10 +17,10 @@
 }
 
 #calender{
-  background: #29E526;
+  background: #228ae6;
   height: 500px;
   width: 300px;
-  margin-left: 43%; 
+  margin-left: 43%;
 
 }
 
@@ -29,12 +29,11 @@
 }
 
 #header i{
-  width: 10%;
+  width: 12%;
   font-size: 15px;
 }
 
 #header i,#header p{
   float: left;
-  height: 100%;
   border: 1px solid black;
 }
