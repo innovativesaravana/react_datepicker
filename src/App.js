@@ -14,7 +14,10 @@ class App extends Component {
             <i class="fa fa-check-circle"></i>
             <i className="fa fa-search" ></i>
           </div>
-          <div id="dates"></div>
+          <div id="dates">
+            {  [...Array(30).keys()].map((i) =>  <div><p>Feb</p></div> )
+            }
+          </div>
         </div>
       </div>
     );
